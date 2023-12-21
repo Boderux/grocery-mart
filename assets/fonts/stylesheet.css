@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Gordita';
+    src: url('Gordita-Black.woff2') format('woff2'),
+        url('Gordita-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gordita';
+    src: url('Gordita-Bold.woff2') format('woff2'),
+        url('Gordita-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gordita';
+    src: url('Gordita-BlackItalic.woff2') format('woff2'),
+        url('Gordita-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gordita';
+    src: url('Gordita-Light.woff2') format('woff2'),
+        url('Gordita-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gordita';
+    src: url('Gordita-BoldItalic.woff2') format('woff2'),
+        url('Gordita-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
